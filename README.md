@@ -7,4 +7,4 @@ If you'd like to get in touch, send an email to [cardiffpythondojo@gmail.com](ma
 
 &nbsp;
 
-![Logo]({{ site.url }}/assets/Pydiff-logo-v1-copy.png){:height="200" width="200" .center-image}
+View the page here: [cdfpydojo.github.io](cdfpydojo.github.io)
