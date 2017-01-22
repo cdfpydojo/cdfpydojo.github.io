@@ -19,12 +19,6 @@ html { font-size: 100%; /* 1 */ -webkit-text-size-adjust: 100%; /* 2 */ -ms-text
 /* Addresses font-family inconsistency between 'textarea' and other form elements. */
 html, button, input, select, textarea { font-family: sans-serif; }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
-
 /* Addresses margins handled incorrectly in IE6/7 */
 body { margin: 0; }
 
