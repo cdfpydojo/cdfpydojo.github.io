@@ -7,4 +7,4 @@ If you'd like to get in touch, send an email to [cardiffpythondojo@gmail.com](ma
 
 &nbsp;
 
-View the page here: [cdfpydojo.github.io](cdfpydojo.github.io)
+View the page here: [cdfpydojo.github.io](https://cdfpydojo.github.io/)
